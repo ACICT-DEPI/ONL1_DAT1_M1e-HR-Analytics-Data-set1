@@ -46,6 +46,13 @@ Data analysts exploring workforce datasets.
 Businesses aiming to optimize employee management and retention.
 This project is easily customizable and can be adapted for different datasets or extended with predictive models to forecast employee turnover trends.
 
+For more details and a complete walkthrough of the analysis, check out the full project documentation here (https://tome.app/data-6c2/human-resources-data-set-analysis-project-cm29560wu0uf44rwxzr8dtrz9).
+
+
+
+
+
+
 
 
 
